@@ -10,4 +10,6 @@ How to use
 ----------
 Note : you MUST run randie as ROOT, there's no fun otherwise. Randie will check that you respect that.
 
-./randie [max_arg_len]
+Will launch in an infinte loop for maximum fun : sudo sh start_randie.sh
+ 
+sudo ./randie [max_arg_len]
